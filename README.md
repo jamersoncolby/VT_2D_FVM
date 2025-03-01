@@ -1,12 +1,6 @@
 
   2D FINITE VOLUME COMPUTATIONAL SOLVER
-     Written By: Colby Jamerson
-
-     AOE 6145 CFD
-     Spring 2021
-     Instructor: Dr. Chris Roy
-     Semester Project
-
+  
     Details:
 
        -> Inviscid Euler Equations
